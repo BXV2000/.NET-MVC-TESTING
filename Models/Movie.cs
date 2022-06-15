@@ -1,5 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using Test_Project.Data;
+using Test_Project.Data.Enums;
 
 namespace Test_Project.Models
 {

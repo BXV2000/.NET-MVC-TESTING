@@ -1,4 +1,4 @@
-﻿namespace Test_Project.Data
+﻿namespace Test_Project.Data.Enums
 {
     public enum MovieCategory
     {
